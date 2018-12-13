@@ -1,2 +1,3 @@
 # hello_world
-This is me going through the github tutorial
+This is me going through this github tutorial...
+I'm not sure what to put here.
